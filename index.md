@@ -8,4 +8,4 @@ Hello
 
 ## where shall we go
 
-* [Apps](apps/index.md)
+* [Apps](Apps/index.md)
